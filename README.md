@@ -1,1 +1,2 @@
-# Python-practice
+# Python gyakorlás
+Ide fogom feltölteni a kódokat.
