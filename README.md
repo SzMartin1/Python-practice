@@ -1,2 +1,3 @@
 # Python gyakorlás
-Ide fogom feltölteni a kódokat.
+
+Ide fogom feltölteni a python kódokat.
