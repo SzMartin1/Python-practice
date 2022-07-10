@@ -15,17 +15,17 @@ age += 1
 print(age)
 print(type(age))
 # a "" jelek között lévő értékek stringek lesznek
-print("My age is"+str(age))
+print("My age is "+str(age))
 # ahhoz hogy az int tipusu értéket hozzáfűzzük ahhoz amit írtunk, castolni kell stringgé
 # float datatype
 height = 173.54
 print(height)
 print(type(height))
-print("My height is"+str(height))
+print("My height is "+str(height))
 # ahhoz hogy az float tipusu értéket hozzáfűzzük ahhoz amit írtunk, castolni kell stringgé
 #boolean datatype
 human = True
 print (human)
 print(type(human))
-print("Am i a human?"+str(human))
+print("Am i a human? Answer: "+str(human))
 # ahhoz hogy az int tipusu értéket hozzáfűzzük ahhoz amit írtunk, castolni kell stringgé
