@@ -3,7 +3,7 @@
 #                    Python knows the names of the arguments that our function recieves
 
 def hello(first,middle,last):
-    print("Hello"+first+" "+middle+""+last)
+    print("Hello "+first+" "+middle+" "+last)
 
 
 hello(last="Szabó",middle="dude",first="Martin")
